@@ -1,0 +1,6 @@
+    <persons> 
+      <person> <firstname age="3">Jim</firstname>  <lastname>Knopf </lastname> 
+      </person>
+      <person> <firstname age="4">Ernie</firstname>  <lastname>Bernd</lastname> 
+      </person>
+    </persons>
