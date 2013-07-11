@@ -1,3 +1,4 @@
+package com.alex.groovy.hello
 
 class SumItUp {
 

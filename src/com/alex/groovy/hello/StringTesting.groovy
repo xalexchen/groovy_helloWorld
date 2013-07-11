@@ -1,3 +1,4 @@
+package com.alex.groovy.hello
 
 class StringTesting {
 // Strings which are quoted in by "" are so-called GStrings (short for Groovy Strings). 

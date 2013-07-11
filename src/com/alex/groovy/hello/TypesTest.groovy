@@ -1,3 +1,4 @@
+package com.alex.groovy.hello
 
 class TypesTest {
 // All variables in Groovy are reference variables (objects), 

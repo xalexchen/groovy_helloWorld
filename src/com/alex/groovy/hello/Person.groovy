@@ -1,3 +1,4 @@
+package com.alex.groovy.hello
 
 class Person {
 // In Groovy all fields of a class have by default the access modifier "private" 
